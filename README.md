@@ -1,4 +1,4 @@
-# komharPROJECT
+# KOMHAR_PROJECT
 The four sprints are intended to create a complete solution that provides notarization and
 document storage service supported by ethereum blockchain and IPFS content storage.
 High level Physical Architecture:
